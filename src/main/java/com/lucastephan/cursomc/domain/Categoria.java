@@ -17,7 +17,8 @@ public class Categoria implements Serializable {
 	private String nome;
 	
 	// Constructors
-	public Categoria() { }
+	public Categoria() {
+	}
 	
 	public Categoria(Integer id, String nome) {
 		super();
